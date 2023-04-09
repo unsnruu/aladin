@@ -13,6 +13,10 @@
 
 # 참고
 
+## 알라딘 API
+
+- [API 설명](https://blog.aladin.co.kr/openapi/5353304)
+
 ## 디자인 참고
 
 - [51percent](https://www.51percent.co.kr/)
